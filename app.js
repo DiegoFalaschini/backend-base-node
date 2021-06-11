@@ -1,4 +1,6 @@
 // npm i cors
+// npm i express-validator
+// npm i bcryptjs
 
 require('dotenv').config();
 
