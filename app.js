@@ -1,6 +1,7 @@
 // npm i cors
 // npm i express-validator
 // npm i bcryptjs
+// npm i jsonwebtoken
 
 require('dotenv').config();
 
